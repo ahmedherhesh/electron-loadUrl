@@ -1,0 +1,19 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "description": "pos system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "author": "ahmed herhesh",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.1.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.1.2"
+  }
+}
